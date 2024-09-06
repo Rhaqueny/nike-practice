@@ -14,3 +14,4 @@ Currently, two official plugins are available:
 # nike_practice
 # nike_practice
 # nike_practice
+# nike-practice
